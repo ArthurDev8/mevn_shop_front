@@ -38,6 +38,3 @@ html {
   margin: 0 auto;
 }
 </style>
-
-
-//35-00 part3
